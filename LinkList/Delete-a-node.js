@@ -1,4 +1,0 @@
-function deleteNode(head, position) {
-    
-
-}
